@@ -9,7 +9,7 @@ npm install.\
 `npm start`.\
 And that's it! Enjoy the kittens!!
 
-## What did i use to create the app?
+## What did I use to create the app?
 
 REACT.JS.\
 react-redux redux-toolkit.\
